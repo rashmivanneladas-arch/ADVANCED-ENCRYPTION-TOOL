@@ -38,8 +38,10 @@ Use Cases:
 Project Context:
 Completed as Task #4 of the CODTECH Internship Program, this project demonstrates practical application of cryptographic principles, Python development skills, and secure software implementation. The repository includes complete source code, documentation, examples, and testing instructions.
 
-##OUTPUT
-
 Technologies: Python 3, PyCryptodome, AES-256, PBKDF2, GCM Mode
 Category: Cybersecurity, Cryptography, File Security
 Status: Production-ready, actively maintained.
+
+##output
+
+![Image](https://github.com/user-attachments/assets/626eb8d0-624c-454f-a3fe-5a83f25ec3b9)
